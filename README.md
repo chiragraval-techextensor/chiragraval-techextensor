@@ -1,4 +1,4 @@
-[![MasterHead](https://freefrontend.com/assets/img/anime-js-examples/Download-Button-with-anime-js.gif)]
+![MasterHead](https://freefrontend.com/assets/img/anime-js-examples/Download-Button-with-anime-js.gif)
 <h1 align="center">Hi 👋, I'm Chirag Raval</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
