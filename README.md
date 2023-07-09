@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Discussion Box](https://discussionbox.com/)
 
-- 🌱 I’m currently learning **Nodejs(Socket.io,Sails.js)**
+- 🌱 I’m currently learning **Nodejs(Express JS, Hapi JS, Sails JS, Socket.io)**
 
 - 💬 Ask me about **MERN, MEAN**
 
