@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/chiragraval1901" target="blank"><img src="https://img.shields.io/twitter/follow/chiragraval1901?logo=twitter&style=for-the-badge" alt="chiragraval1901" /></a> </p>
 
-- 🔭 I’m currently working on [Discussion Box](https://discussionbox.com/)
+- 🔭 I’m currently working on [liftcomm](https://www.liftcomm.com/)
 
-- 🌱 I’m currently learning **Nodejs(Express JS, Rest JS, Hapi JS, Sails JS, Socket.io)**
+- 🌱 I’m currently learning **Nodejs(Express JS, Nest JS, Socket.io)**
 
-- 💬 Ask me about **MERN, MEAN**
+- 💬 Ask me about **MERN, MEAN (Node JS, Express JS, Nest JS, Socket IO, Angular JS, React JS, Next JS, Nx.dev, monorepo/monolith/serverless architectures)**
 
 - 📫 How to reach me **chirag.raval@techextensor.com**
 
